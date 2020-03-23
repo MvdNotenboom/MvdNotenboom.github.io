@@ -1,0 +1,136 @@
+body {
+    font-family: "Varela Round", "Varela";
+    overflow-x: hidden; 
+	color: black;
+}
+
+#logo_navbar {
+    width: 75px;
+    height: auto;
+    align-content: flex-start;
+}
+
+#navbarline {
+    background-color: grey;
+    color: white;
+    border: 1px solid grey;
+}
+
+#navbarline:hover {
+    background-color: black;
+}
+
+footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+    color: white;
+    background-color: grey;
+}
+
+#footer_content {
+    max-height: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-content: center;
+	color: aliceblue;
+}
+
+.columnformat {
+    margin: 50px 0px 20px 0px; 
+    color: white;
+    z-index: 0;
+    color: black;
+}
+
+#backgroundhome{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(50deg, gray 60%, white 100%);
+}
+
+#backgroundresume{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(50deg, gray 60%, white 100%);	
+}
+
+#backgroundaboutme{
+	width: 100%;
+    height: 100%;
+    background-image: linear-gradient(50deg, gray 60%, white 100%);
+}
+
+#full{
+    height:100vh;
+}
+
+.halfview{
+    height:50vh;
+}
+
+.portraitpicture{
+    max-width: 100%;
+    height: auto;
+    border-radius: 0%;
+}
+
+.qoute{
+    text-align: center;
+}
+
+.rme{
+    background-color: lightgrey;
+    border-radius: 1%;
+}
+
+.reducation{
+    background-color: lightgrey;
+    border-radius: 1%;
+}
+
+.rworkexperience{
+    background-color: lightgrey;
+    border-radius: 1%;
+}
+
+.rcertificates{
+    background-color: lightgrey;
+    border-radius: 1%;
+}
+
+.rinfo{
+    background-color: lightgrey;
+    border-radius: 1%;
+}
+
+.ride{
+    background-color: lightgrey;
+    border-radius: 1%;
+}
+
+.rskills{
+    background-color: lightgrey;
+    border-radius: 1%;
+}
+
+a:link {
+  color: aliceblue !important;
+}
+
+a:hover {
+  color: blue !important;
+}
+
+.no_italics {
+    font-style: normal;   
+}
+
+.no_italics:hover {
+    font-style: normal; 
+	color: blue !important;
+	text-decoration:none;
+}
+
+
