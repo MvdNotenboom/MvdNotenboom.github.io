@@ -48,7 +48,6 @@ footer {
     width: 100%;
     height: 100%;
     background-image: linear-gradient(50deg, gray 60%, white 100%);
-    height: 100vh
 }
 
 #backgroundresume{
@@ -61,11 +60,14 @@ footer {
 	width: 100%;
     height: 100%;
     background-image: linear-gradient(50deg, gray 60%, white 100%);
-    height: 100vh
 }
 
 #full{
     height:100vh;
+}
+
+.halfview{
+    height:50vh;
 }
 
 .portraitpicture{
