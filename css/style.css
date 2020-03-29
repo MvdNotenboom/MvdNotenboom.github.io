@@ -63,6 +63,12 @@ footer {
     background-image: linear-gradient(50deg, gray 50%, white 90%);
 }
 
+#backgroundportfolio{
+	width: 100%;
+    height: 100%;
+    background-image: linear-gradient(50deg, gray 50%, white 90%);
+}
+
 #full{
     height:100vh;
 }
@@ -112,6 +118,11 @@ footer {
 }
 
 .rskills{
+    background-color: lightgrey;
+    border-radius: 1%;
+}
+
+.psection{
     background-color: lightgrey;
     border-radius: 1%;
 }
